@@ -1,6 +1,8 @@
 # AI-powered Daily Standup Attendance Summary Bot
 
-This bot leverages Gemini LLM to automate attendance tracking and generate concise summaries from team chat data. This tool solves the common challenge of manual attendance management in remote and hybrid teams by seamlessly fetching, analyzing, and summarizing standup participation, helping teams stay aligned and save time for project managers and scrum masters.
+This bot leverages Gemini LLM to automate attendance tracking from team chat data. </br>
+
+This tool solves the common challenge of manual attendance management in remote and hybrid teams by seamlessly fetching, analyzing, and summarizing standup participation, helping teams stay aligned and save time for project managers and scrum masters.
 
 ## High Level Design
 

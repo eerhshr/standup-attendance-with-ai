@@ -1,5 +1,3 @@
-# mock_data.py
-
 mock_slack_messages = [
     {"user": "U01", "text": "I'm out today, feeling sick."},
     {"user": "U02", "text": "I'll be joining on time."},

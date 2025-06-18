@@ -6,4 +6,4 @@ This tool solves the common challenge of manual attendance management in remote 
 
 ## High Level Design
 
-<img width="1162" alt="Screenshot 2025-06-13 at 7 09 24 AM" src="https://github.com/user-attachments/assets/84ade7fb-cf85-456a-ae34-8b2eb161798c" />
+<img width="1176" alt="Screenshot 2025-06-17 at 9 40 20 PM" src="https://github.com/user-attachments/assets/b90439fc-76ca-4a8b-b25e-ae34e9c66012" />

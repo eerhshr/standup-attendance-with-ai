@@ -1,4 +1,4 @@
-def format_message(messages, user_map):
+def format_mock_data_message(messages, user_map):
     #print(f"Slack messages: {message}")
     chat = []
     

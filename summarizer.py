@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_KEY = os.getenv('API_KEY')
+API_KEY = os.getenv('GEN_AI_API_KEY')
 
 def get_summary(prompt):
     client = genai.Client(api_key=API_KEY)

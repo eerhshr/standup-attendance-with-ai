@@ -1,4 +1,4 @@
-def generate_prompt(chat_log):
+def generate_prompt(chat_log):    
     prompt = f"""
     From the following Slack messages, list who is attending the standup and who is not.
     Messages:   {chat_log}
@@ -8,4 +8,5 @@ def generate_prompt(chat_log):
     """.strip()
     
     return prompt
+    
     

@@ -4,7 +4,7 @@ def generate_prompt(chat_log):
     Messages:   {chat_log}
     Respond in this format:
     Attending: [list of names]
-    Not Attending: [list of names + reasons]
+    Not Attending: [list of names (reasons)]
     """.strip()
     
     return prompt

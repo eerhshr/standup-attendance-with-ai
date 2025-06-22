@@ -8,7 +8,7 @@ This tool solves the common challenge of manual attendance management in remote 
 
 <img width="1176" alt="Screenshot 2025-06-17 at 9 40 20 PM" src="https://github.com/user-attachments/assets/b90439fc-76ca-4a8b-b25e-ae34e9c66012" />
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 Clone the repo
 ```
@@ -23,7 +23,8 @@ pip install -r requirements.txt
 Set up environment variables and run `python main.py`<br>
 
 ## Output
-<img width="850" alt="result" src="https://github.com/user-attachments/assets/432fbbf3-c70a-4933-acdf-3856b795f0eb" />
+<img width="1035" alt="result" src="https://github.com/user-attachments/assets/83f37af1-ccbe-4bda-a98a-cf721cd88871" />
+
 
 <br>
 <br>

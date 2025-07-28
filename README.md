@@ -2,7 +2,7 @@
 
 This AI agent uses Gemini LLM to automate attendance tracking from team chat converstations. </br>
 
-By seamlessly fetching, analyzing, and summarizing standup participation, it solves the common challenge of manual attendance management in remote and hybrid teams—helping teams stay aligned and saving valuable time for project managers and scrum masters.
+By intelligently processing chat history, it identifies who is out-of-office, who will attend meetings, and summarizes standup participation. This reduces the manual effort attendance management for remote and hybrid teams, helping teams stay aligned and saving valuable time for project managers and scrum masters.
 
 
 ## High Level Design

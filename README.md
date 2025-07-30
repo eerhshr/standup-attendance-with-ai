@@ -14,7 +14,7 @@ By intelligently processing chat history, it identifies who is out-of-office, wh
 
 Clone the repo
 ```
-git clone https://github.com/eerhshr/standup-attendance-ai-agent.git
+git clone https://github.com/eerhshr/standup-attendance-with-ai.git
 ```
 
 Install dependencies
@@ -31,4 +31,4 @@ Set up environment variables and run `python main.py`<br>
 <br>
 <br>
 
-© 2025 Standup Attendance AI Agent. All rights reserved.
+© 2025 Standup Attendance Summary Agent. All rights reserved.

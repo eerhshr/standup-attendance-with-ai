@@ -1,6 +1,6 @@
-# AI-powered Daily Standup Attendance Summary Agent
+# AI-powered Daily Standup Attendance Summary 
 
-This AI agent uses Gemini LLM to automate attendance tracking from team chat converstations. </br>
+This AI bot uses Gemini LLM to automate attendance tracking from team chat converstations. </br>
 
 By intelligently processing chat history, it identifies who is out-of-office, who will attend meetings, and summarizes standup participation. This reduces the manual effort attendance management for remote and hybrid teams, helping teams stay aligned and saving valuable time for project managers and scrum masters.
 
@@ -31,4 +31,4 @@ Set up environment variables and run `python main.py`<br>
 <br>
 <br>
 
-© 2025 Standup Attendance Summary Agent. All rights reserved.
+© 2025 Standup Attendance Summary Bot. All rights reserved.
